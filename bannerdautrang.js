@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://bit.ly/2id8cON' target='_blank'><img src='https://plus.google.com/u/0/104401721273095066142/posts/39R5ejcZTAe?pid=6368755909719164130&oid=104401721273095066142' width='500px'/><br/>13 Biệt thự giá rẻ Nhà Bè</a>. Lavila Kiến Á. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://bit.ly/2id8cON' target='_blank'><img src='https://lh4.googleusercontent.com/-ly0BDF2fRbQ/WGJdwbv7BOI/AAAAAAAACKo/YjYA_cyYX5Yb0_mcihirFPFmibOgNHH4ACL0B/w944-h531-no/ph%25E1%25BB%2591i%2Bc%25E1%25BA%25A3nh%2B%25C4%2590%25C6%25AF%25E1%25BB%259CNG%2BTRONG%2Bd%25E1%25BB%25B1%2B%25C3%25A1n%2Bbi%25E1%25BB%2587t%2Bth%25E1%25BB%25B1%2Blavila%2Bki%25E1%25BA%25BFn%2B%25C3%25A1%2Bnh%25C3%25A0%2Bb%25C3%25A8%2B-%2BNAM%2BSAI%2BGON.jpg' width='500px'/><br/>13 Biệt thự giá rẻ Nhà Bè</a>. Lavila Kiến Á. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
